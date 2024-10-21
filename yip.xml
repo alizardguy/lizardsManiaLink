@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<manialink version="3">
+    <label pos="0 0" z-index=0 size="140 20" text="Hello World!" textcolor="ffffff" halign="center" style="TextTips" autonewline="1" opacity="0.3" /> 
+</manialink>
