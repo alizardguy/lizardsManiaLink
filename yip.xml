@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <manialink version="3">
-    <label pos="0 0" z-index=0 size="140 20" text="This page is WIP" textcolor="ffffff" halign="center" autonewline="1" opacity="1" /> 
-    <label pos="0 -5" z-index=0 size="100 15" text="alizardguy.com on Bluesky" textcolor="ffffff" halign="center" autonewline="1" opacity="0.5" /> 
+    <label pos="0 0" z-index="0" size="140 20" text="This page is WIP" textcolor="ffffff" halign="center" autonewline="1" opacity="1" /> 
+    <label pos="0 -5" z-index="0" size="100 15" text="alizardguy.com on Bluesky" textcolor="ffffff" halign="center" autonewline="1" opacity="0.5" /> 
+    <label pos="0 -85" z-index="2" halign="center" text="$l[alizardguy.com]Link to my homepage www.alizardguy.com"/>
     <quad pos="-160 90" z-index="0" size="320 180" image="https://raw.githubusercontent.com/alizardguy/lizardsManiaLink/refs/heads/main/stones.jpg"/>
 </manialink>
